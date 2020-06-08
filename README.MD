@@ -2,8 +2,13 @@
 
 ## What is this for?
 
-Well this Tool is made to remove passwords from excel files because users forgot passwords a hundred times.
+Well this Tool is made to remove the excel spreadsheet passwords because users forgot passwords a hundred times.
 VBA's were just to complicated or have Excel version specific options.
+
+## What it does not
+
+Remove the Encrypted Passwords from Excel Files.
+If you cannot open the Excel File to atleast read its Content you need to look for other Tools.
 
 ## Tested:
 
