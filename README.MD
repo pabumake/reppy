@@ -28,4 +28,4 @@ Happy Password Removing ^^
 
 #### Saved you time & Stress? 
 
-You can support me @ https://www.buymeacoffee.com/pabumake
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7FA8GY)
